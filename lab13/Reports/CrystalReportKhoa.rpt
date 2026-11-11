@@ -1,0 +1,6 @@
+SAP Crystal Reports - CrystalReportKhoa.rpt
+Report Title: Báo cáo Thống kê Sinh viên theo Khoa
+Data Source: vw_BaoCaoKhoa
+Author: Phan Văn Thắng - 24002545
+Fields: MaKhoa, TenKhoa, SoLuongSinhVien, DiemTrungBinhKhoa
+Formatting: Standard Academic Report, Logo EAUT, Header, Footer Page N of M

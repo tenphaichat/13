@@ -1,0 +1,6 @@
+SAP Crystal Reports - CrystalReportHocPhan.rpt
+Report Title: Báo cáo Danh mục Học phần Đào tạo
+Data Source: vw_BaoCaoHocPhan
+Author: Phan Văn Thắng - 24002545
+Fields: MaHP, TenHP, SoTinChi, SoLuongDangKy
+Formatting: Sắp xếp theo tên học phần (A-Z), Logo EAUT, Header, Footer Page N of M

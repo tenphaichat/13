@@ -1,0 +1,6 @@
+SAP Crystal Reports - CrystalReportSinhVien.rpt
+Report Title: Báo cáo Danh sách Sinh viên
+Data Source: vw_BaoCaoSinhVien
+Author: Phan Văn Thắng - 24002545
+Fields: MaSV, HoTen, NgaySinh, GioiTinh, MaKhoa, TenKhoa, DiemTB, Email
+Formatting: Standard Academic Report, Logo EAUT, Header, Footer Page N of M
