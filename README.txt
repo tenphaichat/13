@@ -1,13 +1,3 @@
-================================================================================
-BÁO CÁO THỰC HÀNH LAB 13: TẠO BÁO CÁO CƠ BẢN BẰNG CRYSTAL REPORT
-Học phần: Lập trình .NET (IT3212) - EAUT
-Khoa Công nghệ Thông tin - Trường Đại học Công nghệ Đông Á
-Sinh viên thực hiện: Phan Văn Thắng
-Mã sinh viên: 24002545
-Lớp: IT3212
-Ngày sinh: 26/03/2006
-================================================================================
-
 1. THÔNG TIN PHIÊN BẢN CRYSTAL REPORTS VÀ RUNTIME SỬ DỤNG
 --------------------------------------------------------------------------------
 - Công cụ phát triển: Visual Studio 2022 / .NET 9.0 Windows Forms Desktop SDK
